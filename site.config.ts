@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'Accessories-18087b3289408016aef3d1b3ac7438d8',
+  rootNotionPageId: '18087b3289408016aef3d1b3ac7438d8',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Accessories',
-  domain: 'accessories.luomarine.com',
+  domain: 'a.luomarine.com',
   author: 'luomarine',
 
   // open graph metadata (optional)
